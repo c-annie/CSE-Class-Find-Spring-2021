@@ -1,0 +1,3637 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.collapsible {
+  background-color: #438D98;
+  color:white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: center;
+  outline: none;
+  font-size: 17px;
+}
+
+.active, .collapsible:hover {
+  background-color: #00A5B1;
+}
+
+.content {
+  padding: 10px;
+  display: none;
+  overflow: hidden;
+  background-color: #f7fbfd;
+}
+th, td {
+  padding: 10px;
+  text-align: left;
+}
+</style>
+</head>
+<body>
+  <h1 style="text-align: center;">All Computer Science Classes, Spring 2021</h1>
+  
+<button type="button" class="collapsible">CSE 101 Lecture Section 1 - Computer Science Principles</button>
+<div class="content">
+    <table>
+        <tr>
+            <td>Meeting Details</td>
+            <td>
+            Days: MWF<br>
+            Time: 11:00AM - 11:53AM<br>
+            Building: TBA<br>
+            Room: TBA</td>
+        </tr>
+        <tr>
+            <td>Instructor</td>
+            <td>Kevin McDonnell</td>
+          </tr>
+          <tr>
+            <td>Instruction Mode</td>
+            <td>In person</td>
+          </tr>
+          <tr>
+            <td>Credits</td>
+            <td>3</td>
+          </tr>
+          <tr> 
+              <td>Capacity</td>
+              <td>Enrollment Cap: 210 <br>Wait Cap: 70</td>
+          </tr>
+          <tr>
+            <td>Description</td>
+            <td>Introduces central ideas of computing and computer science, instills practices of algorithmic and computational thinking, and engages students in the creative aspects of the field. Also introduces appropriate computing technology as a means for solving computational problems and exploring creative endeavors. Includes weekly computer programming assignments, but assumes no previous programming experience.</td>
+          </tr>
+          <tr>
+              <td>Prerequisites</td>
+              <td>Level 3 or higher on the mathematics placements examination <br> SBC: TECH</td>
+          </tr>
+    </table>
+</div>
+<button type="button" class="collapsible">CSE 101 LAB L01 - Computer Science Principles</button>
+<div class="content">
+    <table>
+        <tr>
+            <td>Meeting Details</td>
+            <td>
+            Days: M<br>
+            Time: 12:00PM - 12:53PM<br>
+            Building: Old Computer Science<br>
+            Room: 2114</td>
+        </tr>
+        <tr>
+            <td>Instructor</td>
+            <td>Kevin McDonnell</td>
+          </tr>
+          <tr>
+            <td>Instruction Mode</td>
+            <td>In person</td>
+          </tr>
+          <tr>
+            <td>Credits</td>
+            <td>1</td>
+          </tr>
+          <tr> 
+              <td>Capacity</td>
+              <td>Enrollment Cap: 30 <br>Wait Cap: 10</td>
+          </tr>
+
+          <tr>
+              <td>Prerequisites</td>
+              <td>Level 3 or higher on the mathematics placements examination <br> SBC: TECH</td>
+          </tr>
+    </table>
+</div>
+<button type="button" class="collapsible">CSE 101 LAB L02 - Computer Science Principles</button>
+<div class="content">
+    <table>
+        <tr>
+            <td>Meeting Details</td>
+            <td>
+            Days: M<br>
+            Time: 1:00PM - 1:53PM<br>
+            Building: Old Computer Science<br>
+            Room: 2114</td>
+        </tr>
+        <tr>
+            <td>Instructor</td>
+            <td>Kevin McDonnell</td>
+          </tr>
+          <tr>
+            <td>Instruction Mode</td>
+            <td>In person</td>
+          </tr>
+          <tr>
+            <td>Credits</td>
+            <td>1</td>
+          </tr>
+          <tr> 
+              <td>Capacity</td>
+              <td>Enrollment Cap: 30 <br>Wait Cap: 10</td>
+          </tr>
+
+          <tr>
+              <td>Prerequisites</td>
+              <td>Level 3 or higher on the mathematics placements examination <br> SBC: TECH</td>
+          </tr>
+    </table>
+</div>
+<button type="button" class="collapsible">CSE 101 LAB L03 - Computer Science Principles</button>
+<div class="content">
+    <table>
+        <tr>
+            <td>Meeting Details</td>
+            <td>
+            Days: TU<br>
+            Time: 4:00PM - 4:53PM<br>
+            Building: Old Computer Science<br>
+            Room: 2114</td>
+        </tr>
+        <tr>
+            <td>Instructor</td>
+            <td>Kevin McDonnell</td>
+          </tr>
+          <tr>
+            <td>Instruction Mode</td>
+            <td>In person</td>
+          </tr>
+          <tr>
+            <td>Credits</td>
+            <td>1</td>
+          </tr>
+          <tr> 
+              <td>Capacity</td>
+              <td>Enrollment Cap: 30 <br>Wait Cap: 10</td>
+          </tr>
+
+          <tr>
+              <td>Prerequisites</td>
+              <td>Level 3 or higher on the mathematics placements examination <br> SBC: TECH</td>
+          </tr>
+    </table>
+</div>
+<button type="button" class="collapsible">CSE 101 LAB L04 - Computer Science Principles</button>
+<div class="content">
+    <table>
+        <tr>
+            <td>Meeting Details</td>
+            <td>
+            Days: TU<br>
+            Time: 5:30PM - 6:23PM<br>
+            Building: Old Computer Science<br>
+            Room: 2114</td>
+        </tr>
+        <tr>
+            <td>Instructor</td>
+            <td>Kevin McDonnell</td>
+          </tr>
+          <tr>
+            <td>Instruction Mode</td>
+            <td>In person</td>
+          </tr>
+          <tr>
+            <td>Credits</td>
+            <td>1</td>
+          </tr>
+          <tr> 
+              <td>Capacity</td>
+              <td>Enrollment Cap: 30 <br>Wait Cap: 10</td>
+          </tr>
+
+          <tr>
+              <td>Prerequisites</td>
+              <td>Level 3 or higher on the mathematics placements examination <br> SBC: TECH</td>
+          </tr>
+    </table>
+</div>
+<button type="button" class="collapsible">CSE 101 LAB L05 - Computer Science Principles</button>
+<div class= "content"> 
+    <table>
+        <tr>
+            <td>Meeting Details</td>
+            <td>
+            Days: W<br>
+            Time: 12:00PM - 12:53PM<br>
+            Building: Old Computer Science<br>
+            Room: 2114</td>
+        </tr>
+        <tr>
+            <td>Instructor</td>
+            <td>Kevin McDonnell</td>
+          </tr>
+          <tr>
+            <td>Instruction Mode</td>
+            <td>In person</td>
+          </tr>
+          <tr>
+            <td>Credits</td>
+            <td>1</td>
+          </tr>
+          <tr> 
+              <td>Capacity</td>
+              <td>Enrollment Cap: 30 <br>Wait Cap: 10</td>
+          </tr>
+
+          <tr>
+              <td>Prerequisites</td>
+              <td>Level 3 or higher on the mathematics placements examination <br> SBC: TECH</td>
+          </tr>
+    </table>
+</div>
+<button type="button" class="collapsible">CSE 101 LAB L06 - Computer Science Principles</button>
+<div class="content">
+    <table>
+        <tr>
+            <td>Meeting Details</td>
+            <td>
+            Days: W<br>
+            Time: 4:00PM - 4:53PM<br>
+            Building: Old Computer Science<br>
+            Room: 2114</td>
+        </tr>
+        <tr>
+            <td>Instructor</td>
+            <td>Kevin McDonnell</td>
+          </tr>
+          <tr>
+            <td>Instruction Mode</td>
+            <td>In person</td>
+          </tr>
+          <tr>
+            <td>Credits</td>
+            <td>1</td>
+          </tr>
+          <tr> 
+              <td>Capacity</td>
+              <td>Enrollment Cap: 30 <br>Wait Cap: 10</td>
+          </tr>
+
+          <tr>
+              <td>Prerequisites</td>
+              <td>Level 3 or higher on the mathematics placements examination <br> SBC: TECH</td>
+          </tr>
+    </table>
+</div>
+<button type="button" class="collapsible">CSE 101 LAB L07 - Computer Science Principles</button>
+<div class="content">
+    <table>
+        <tr>
+            <td>Meeting Details</td>
+            <td>
+            Days: TH<br>
+            Time: 4:00PM - 4:53PM<br>
+            Building: Old Computer Science<br>
+            Room: 2114</td>
+        </tr>
+        <tr>
+            <td>Instructor</td>
+            <td>Kevin McDonnell</td>
+          </tr>
+          <tr>
+            <td>Instruction Mode</td>
+            <td>In person</td>
+          </tr>
+          <tr>
+            <td>Credits</td>
+            <td>1</td>
+          </tr>
+          <tr> 
+              <td>Capacity</td>
+              <td>Enrollment Cap: 30 <br>Wait Cap: 10</td>
+          </tr>
+
+          <tr>
+              <td>Prerequisites</td>
+              <td>Level 3 or higher on the mathematics placements examination <br> SBC: TECH</td>
+          </tr>
+    </table>
+</div>
+<button type="button" class="collapsible">CSE 114 Lecture Section 1 - Introduction to Object-Oriented Programming</button>
+<div class="content">
+    <table>
+        <tr>
+            <td>Meeting Details</td>
+            <td>
+            Days: TUTH<br>
+            Time: 4:00PM - 5:20PM<br>
+            Building: TBA<br>
+            Room: TBA</td>
+        </tr>
+        <tr>
+            <td>Instructor</td>
+            <td>Paul Fodor</td>
+          </tr>
+          <tr>
+            <td>Instruction Mode</td>
+            <td>In person</td>
+          </tr>
+          <tr>
+            <td>Credits</td>
+            <td>4</td>
+          </tr>
+          <tr> 
+              <td>Capacity</td>
+              <td>Enrollment Cap: 120 <br>Wait Cap: 44</td>
+          </tr>
+          <tr>
+            <td>Description</td>
+            <td>An introduction to procedural and object-oriented programming methodology. Topics include program structure, conditional and iterative programming, procedures, arrays and records, object classes, encapsulation, information hiding, inheritance, polymorphism, file I/O, and exceptions. Includes required laboratory. This course has been designated as a High Demand/Controlled Access (HD/CA) course. Students registering for HD/CA courses for the first time will have priority to do so.</td>
+          </tr>
+          <tr>
+              <td>Prerequisites</td>
+              <td>Level 4 or higher on the mathematics placements examination <br>Adivsory Prerequisites: CSE 101 or ISE 108 <br> SBC: TECH</td>
+          </tr>
+    </table>
+</div>
+<button type="button" class="collapsible">CSE 114 LAB L01 - Introduction to Object-Oriented Programming</button>
+<div class="content">
+    <table>
+        <tr>
+            <td>Meeting Details</td>
+            <td>
+            Days: MW<br>
+            Time: 7:00PM - 8:20PM<br>
+            Building: Old Computer Science<br>
+            Room: 2116</td>
+        </tr>
+        <tr>
+            <td>Instructor</td>
+            <td>Paul Fodor</td>
+          </tr>
+          <tr>
+            <td>Instruction Mode</td>
+            <td>In person</td>
+          </tr>
+          <tr>
+            <td>Credits</td>
+            <td>1</td>
+          </tr>
+          <tr> 
+              <td>Capacity</td>
+              <td>Enrollment Cap: 30 <br>Wait Cap: 11</td>
+          </tr>
+          <tr>
+            <td>Description</td>
+            <td>An introduction to procedural and object-oriented programming methodology. Topics include program structure, conditional and iterative programming, procedures, arrays and records, object classes, encapsulation, information hiding, inheritance, polymorphism, file I/O, and exceptions. Includes required laboratory. This course has been designated as a High Demand/Controlled Access (HD/CA) course. Students registering for HD/CA courses for the first time will have priority to do so.</td>
+          </tr>
+          <tr>
+              <td>Prerequisites</td>
+              <td>Level 4 or higher on the mathematics placements examination <br>Adivsory Prerequisites: CSE 101 or ISE 108 <br> SBC: TECH</td>
+          </tr>
+    </table>
+</div>
+<button type="button" class="collapsible">CSE 114 LAB L02 - Introduction to Object-Oriented Programming</button>
+<div class= "content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: TUTH<br>
+        Time: 8:30AM - 9:50AM<br>
+        Building: Old Computer Science<br>
+        Room: 2116</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Paul Fodor</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>1</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 30 <br>Wait Cap: 11</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>An introduction to procedural and object-oriented programming methodology. Topics include program structure, conditional and iterative programming, procedures, arrays and records, object classes, encapsulation, information hiding, inheritance, polymorphism, file I/O, and exceptions. Includes required laboratory. This course has been designated as a High Demand/Controlled Access (HD/CA) course. Students registering for HD/CA courses for the first time will have priority to do so.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>Level 4 or higher on the mathematics placements examination <br>Adivsory Prerequisites: CSE 101 or ISE 108 <br> SBC: TECH</td>
+      </tr>
+</table>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 114 LAB L03 - Introduction to Object-Oriented Programming</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: TUTH<br>
+        Time: 10:00AM - 11:20AM<br>
+        Building: Old Computer Science<br>
+        Room: 2116</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Paul Fodor</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>1</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 30 <br>Wait Cap: 11</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>An introduction to procedural and object-oriented programming methodology. Topics include program structure, conditional and iterative programming, procedures, arrays and records, object classes, encapsulation, information hiding, inheritance, polymorphism, file I/O, and exceptions. Includes required laboratory. This course has been designated as a High Demand/Controlled Access (HD/CA) course. Students registering for HD/CA courses for the first time will have priority to do so.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>Level 4 or higher on the mathematics placements examination <br>Adivsory Prerequisites: CSE 101 or ISE 108 <br> SBC: TECH</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 114 LAB L04 - Introduction to Object-Oriented Programming</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: TUTH<br>
+        Time: 5:30PM - 6:50PM<br>
+        Building: Old Computer Science<br>
+        Room: 2116</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Paul Fodor</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>1</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 30 <br>Wait Cap: 11</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>An introduction to procedural and object-oriented programming methodology. Topics include program structure, conditional and iterative programming, procedures, arrays and records, object classes, encapsulation, information hiding, inheritance, polymorphism, file I/O, and exceptions. Includes required laboratory. This course has been designated as a High Demand/Controlled Access (HD/CA) course. Students registering for HD/CA courses for the first time will have priority to do so.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>Level 4 or higher on the mathematics placements examination <br>Adivsory Prerequisites: CSE 101 or ISE 108 <br> SBC: TECH</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 114 Lecture Section 2 - Introduction to Object-Oriented Programming</button>
+<div class="content">
+    <table>
+        <tr>
+            <td>Meeting Details</td>
+            <td>
+            Days: TUTH<br>
+            Time: 11:30AM - 12:50PM<br>
+            Building: TBA<br>
+            Room: TBA</td>
+        </tr>
+        <tr>
+            <td>Instructor</td>
+            <td>Praveen Tripathi</td>
+          </tr>
+          <tr>
+            <td>Instruction Mode</td>
+            <td>In person</td>
+          </tr>
+          <tr>
+            <td>Credits</td>
+            <td>4</td>
+          </tr>
+          <tr> 
+              <td>Capacity</td>
+              <td>Enrollment Cap: 120 <br>Wait Cap: 44</td>
+          </tr>
+          <tr>
+            <td>Description</td>
+            <td>An introduction to procedural and object-oriented programming methodology. Topics include program structure, conditional and iterative programming, procedures, arrays and records, object classes, encapsulation, information hiding, inheritance, polymorphism, file I/O, and exceptions. Includes required laboratory. This course has been designated as a High Demand/Controlled Access (HD/CA) course. Students registering for HD/CA courses for the first time will have priority to do so.</td>
+          </tr>
+          <tr>
+              <td>Prerequisites</td>
+              <td>Level 4 or higher on the mathematics placements examination <br>Adivsory Prerequisites: CSE 101 or ISE 108 <br> SBC: TECH</td>
+          </tr>
+    </table>
+</div>
+<button type="button" class="collapsible">CSE 114 LAB L07 -Introduction to Object-Oriented Programming</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: MW<br>
+        Time: 8:30AM - 9:50AM<br>
+        Building: Old Computer Science<br>
+        Room: 2116</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Praveen Tripathi</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>1</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 30 <br>Wait Cap: 11</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>An introduction to procedural and object-oriented programming methodology. Topics include program structure, conditional and iterative programming, procedures, arrays and records, object classes, encapsulation, information hiding, inheritance, polymorphism, file I/O, and exceptions. Includes required laboratory. This course has been designated as a High Demand/Controlled Access (HD/CA) course. Students registering for HD/CA courses for the first time will have priority to do so.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>Level 4 or higher on the mathematics placements examination <br>Adivsory Prerequisites: CSE 101 or ISE 108 <br> SBC: TECH</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 114 LAB L08 - Introduction to Object-Oriented Programming</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: MW<br>
+        Time: 10:00AM - 11:20AM<br>
+        Building: Old Computer Science<br>
+        Room: 2116</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Praveen Tripathi</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>1</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 30 <br>Wait Cap: 11</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>An introduction to procedural and object-oriented programming methodology. Topics include program structure, conditional and iterative programming, procedures, arrays and records, object classes, encapsulation, information hiding, inheritance, polymorphism, file I/O, and exceptions. Includes required laboratory. This course has been designated as a High Demand/Controlled Access (HD/CA) course. Students registering for HD/CA courses for the first time will have priority to do so.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>Level 4 or higher on the mathematics placements examination <br>Adivsory Prerequisites: CSE 101 or ISE 108 <br> SBC: TECH</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 114 LAB L09 - Introduction to Object-Oriented Programming</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: MW<br>
+        Time: 11:30AM - 12:50PM<br>
+        Building: Old Computer Science<br>
+        Room: 2116</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Praveen Tripathi</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>1</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 30 <br>Wait Cap: 11</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>An introduction to procedural and object-oriented programming methodology. Topics include program structure, conditional and iterative programming, procedures, arrays and records, object classes, encapsulation, information hiding, inheritance, polymorphism, file I/O, and exceptions. Includes required laboratory. This course has been designated as a High Demand/Controlled Access (HD/CA) course. Students registering for HD/CA courses for the first time will have priority to do so.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>Level 4 or higher on the mathematics placements examination <br>Adivsory Prerequisites: CSE 101 or ISE 108 <br> SBC: TECH</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 114 LAB L010 - Introduction to Object-Oriented Programming</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: MW<br>
+        Time: 2:30PM - 3:50PM<br>
+        Building: Old Computer Science<br>
+        Room: 2116</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Praveen Tripathi</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>1</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 30 <br>Wait Cap: </td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>An introduction to procedural and object-oriented programming methodology. Topics include program structure, conditional and iterative programming, procedures, arrays and records, object classes, encapsulation, information hiding, inheritance, polymorphism, file I/O, and exceptions. Includes required laboratory. This course has been designated as a High Demand/Controlled Access (HD/CA) course. Students registering for HD/CA courses for the first time will have priority to do so.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>Level 4 or higher on the mathematics placements examination <br>Adivsory Prerequisites: CSE 101 or ISE 108 <br> SBC: TECH</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 160 Lecture Section 1 - Computer Science A: Honors</button>
+<div class="content"> 
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: MW<br>
+        Time: 5:30PM - 6:50PM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Paul Fodor</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 50 <br>Wait Cap: 0</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>First part of a two-semester sequence, CSE 160 and CSE 260. An introduction to procedural and object-oriented programming methodology and basic data structures. Topics include program structure, conditional and iterative programming, procedures, arrays, object classes, encapsulation, information hiding, inheritance, polymorphism, file I/O, exceptions and simple data structures, such as lists, queues and stacks.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>Computer Science Honors Program or the Honors College or the WISE Honors Program or University Scholars<br>Corequisites: CSE 161 <br> SBC: TECH</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 161 LAB L01 - Computer Science A: Honors</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: MW<br>
+        Time: 7:00PM - 8:20PM<br>
+        Building: Old Computer Science<br>
+        Room: 2129</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Praveen Tripathi</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>1</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 35<br>Wait Cap: </td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>Must be taken concurrently with lecture component, CSE 160; a common grade for both courses will be assigned. Laboratory sessions will focus on development of pragmatic programming skills and use of programming environments and tools in a supervised setting.</td>
+      </tr>
+      <tr>
+          <td>Corequisites</td>
+          <td>CSE 160</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 214 Lecture Section 1 - Data Structures</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: TUTH<br>
+        Time: 8:30AM - 9:50AM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Ahmad Esmaili</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>4</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 120 <br>Wait Cap: 30</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>An extension of programming methodology to data storage and manipulation on complex data sets. Topics include: programming and applications of data structures; stacks, queues, lists, binary trees, heaps, priority queues, balanced trees and graphs. Recursive programming is heavily utilized. Fundamental sorting and searching algorithms are examined along with informal efficiency comparisons.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>C or higher in CSE 114</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 214 Recitation R01 - Data Structures</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: RETH<br>
+        Time: 10:00AM - 10:53AM<br>
+        Building: Old Computer Science<br>
+        Room: 2129</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Ahmad Esmaili</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>0</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 30<br>Wait Cap: 5</td>
+      </tr>
+          <td>Corequisites</td>
+          <td>CSE 214</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 214 Recitation R02 - Data Structures</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: RETU<br>
+        Time: 10:00AM - 10:53AM<br>
+        Building: Old Computer Science<br>
+        Room: 2129</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Ahmad Esmaili</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>0</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 30<br>Wait Cap: 5</td>
+      </tr>
+          <td>Corequisites</td>
+          <td>CSE 214</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 214 Recitation R03 - Data Structures</button>
+<div class = "content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: RETU<br>
+        Time: 4:00PM - 4:53PM<br>
+        Building: Old Computer Science<br>
+        Room: 2129</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Ahmad Esmaili</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>0</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 30<br>Wait Cap: 5</td>
+      </tr>
+          <td>Corequisites</td>
+          <td>CSE 214</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 214 Recitation R04 - Data Structures</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: RETH<br>
+        Time: 4:00AM - 4:53PM<br>
+        Building: Old Computer Science<br>
+        Room: 2129</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Ahmad Esmaili</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>0</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 30<br>Wait Cap: 5</td>
+      </tr>
+          <td>Corequisites</td>
+          <td>CSE 214</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 214 Lecture Section 2 - Data Structures</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: MWF<br>
+        Time: 11:00AM - 11:50AM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Pramod Ganapathi</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>4</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 120 <br>Wait Cap: 0</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>An extension of programming methodology to data storage and manipulation on complex data sets. Topics include: programming and applications of data structures; stacks, queues, lists, binary trees, heaps, priority queues, balanced trees and graphs. Recursive programming is heavily utilized. Fundamental sorting and searching algorithms are examined along with informal efficiency comparisons.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>C or higher in CSE 114/td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 214 Recitation R06 - Data Structures</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: RECF<br>
+        Time: 2:30PM - 3:23PM<br>
+        Building: Old Computer Science<br>
+        Room: 2114</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Pramod Ganapathi
+        </td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>0</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 0<br>Wait Cap: 0</td>
+      </tr>
+          <td>Corequisites</td>
+          <td>CSE 214</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 214 Recitation R07 - Data Structures</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: RECM<br>
+        Time: 2:30PM - 3:23PM<br>
+        Building: Old Computer Science<br>
+        Room: 2114</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Pramod Ganapathi
+        </td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>0</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 30<br>Wait Cap: 5</td>
+      </tr>
+          <td>Corequisites</td>
+          <td>CSE 214</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 214 Recitation R08 - Data Structures</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: RECW<br>
+        Time: 2:30PM - 3:23PM<br>
+        Building: Old Computer Science<br>
+        Room: 2114</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Pramod Ganapathi
+        </td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>0</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 30<br>Wait Cap: 5</td>
+      </tr>
+          <td>Corequisites</td>
+          <td>CSE 214</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 214 Recitation R09 - Data Structures</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: RECM<br>
+        Time: 3:30PM - 4:23PM<br>
+        Building: Old Computer Science<br>
+        Room: 2114</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Pramod Ganapathi
+        </td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>0</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 30<br>Wait Cap: 5</td>
+      </tr>
+          <td>Corequisites</td>
+          <td>CSE 214</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 215 Lection Section 1 - Foundations of Computer Science</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: TUTH<br>
+        Time: 1:00PM - 2:20AM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Christopher Kane</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>4</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 120 <br>Wait Cap: 40</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>Introduction to the logical and mathematical foundations of computer science. Topics include functions, relations, and sets; recursion; elementary logic; and mathematical induction and other proof techniques</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>AMS 151 or MAT 125 or MAT 131</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 215 Recitation R01 - Foundations of Computer Science</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: RECM<br>
+        Time: 10:00AM - 10:53AM<br>
+        Building: Old Computer Science<br>
+        Room: 2114</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Christopher Kane</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>0</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 30<br>Wait Cap: 10</td>
+      </tr>
+          <td>Corequisites</td>
+          <td>CSE 215</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 215 Recitation R02 - Foundations of Computer Science</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: RECW<br>
+        Time: 10:00AM - 10:53PM<br>
+        Building: Old Computer Science<br>
+        Room: 2114</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Christopher Kane</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>0</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 30<br>Wait Cap: 10</td>
+      </tr>
+          <td>Corequisites</td>
+          <td>CSE 215</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 215 Recitation R03 - Foundations of Computer Science</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: RECM<br>
+        Time: 11:00AM - 11:53AM<br>
+        Building: Old Computer Science<br>
+        Room: 2114</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Christopher Kane</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>0</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 30<br>Wait Cap: 10</td>
+      </tr>
+          <td>Corequisites</td>
+          <td>CSE 215</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 215 Recitation R04 - Foundations of Computer Science</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: RECW<br>
+        Time: 11:00AM - 11:53AM<br>
+        Building: Old Computer Science<br>
+        Room: 2119</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Christopher Kane</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>0</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 30<br>Wait Cap: 10</td>
+      </tr>
+          <td>Corequisites</td>
+          <td>CSE 215</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 215 Lecture Section 2 - Foundations of Computer Science</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: MW<br>
+        Time: 8:30AM - 9:50AM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Pramod Ganapathi        </td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>4</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 120 <br>Wait Cap: 40</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>Introduction to the logical and mathematical foundations of computer science. Topics include functions, relations, and sets; recursion; elementary logic; and mathematical induction and other proof techniques</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>AMS 151 or MAT 125 or MAT 131/td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 215 Recitation R06 - Foundations of Computer Science</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: RECW<br>
+        Time: 1:00PM - 1:53PM<br>
+        Building: Old Computer Science<br>
+        Room: 2114</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Pramod Ganapathi</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>0</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 30<br>Wait Cap: 10</td>
+      </tr>
+          <td>Corequisites</td>
+          <td>CSE 215</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 215 Recitation R07 - Foundations of Computer Science</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: RECM<br>
+        Time: 11:00AM - 11:53AM<br>
+        Building: Old Computer Science<br>
+        Room: 2129</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Pramod Ganapathi</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>0</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 30<br>Wait Cap: 10</td>
+      </tr>
+          <td>Corequisites</td>
+          <td>CSE 215</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 215 Recitation R08 - Foundations of Computer Science</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: RECW<br>
+        Time: 11:00AM - 11:53AM<br>
+        Building: Old Computer Science<br>
+        Room: 2114</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Pramod Ganapathi</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>0</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 30<br>Wait Cap: 10</td>
+      </tr>
+          <td>Corequisites</td>
+          <td>CSE 215</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 215 Recitation R09 - Foundations of Computer Science</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: RECF<br>
+        Time: 9:00AM - 9:53AM<br>
+        Building: Old Computer Science<br>
+        Room: 2114</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Pramod Ganapathi</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>0</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 0<br>Wait Cap: 0</td>
+      </tr>
+          <td>Corequisites</td>
+          <td>CSE 215</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 216 Lecture Section 1 - Programming Abstractions</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: MW<br>
+        Time: 5:30AM - 6:50AM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Ritwik Banerjee</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>4</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 180 <br>Wait Cap: 25</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>Intermediate-level programming concepts and paradigms, including functional programming, object-orientation, basics of type systems, memory management, program and data abstractions, parameter passing, modularity, version control, and parallel programming. Includes weekly recitations, which provide students with experience in the practice of programming in a variety of high-level languages.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>C or higher in CSE 214; CSE major</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 216 Recitation R01 - Programming Abstractions</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: RETU<br>
+        Time: 10:00AM - 10:53AM<br>
+        Building: TBA<br>
+        Room: 115</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Ritwik Banerjee</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>0</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 30<br>Wait Cap: 10</td>
+      </tr>
+          <td>Corequisites</td>
+          <td>CSE 216</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 216 Recitation R02 - Programming Abstractions</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: RETH<br>
+        Time: 10:00AM - 10:53AM<br>
+        Building: TBA<br>
+        Room: 115</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Ritwik Banerjee</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>0</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 30<br>Wait Cap: 10</td>
+      </tr>
+          <td>Corequisites</td>
+          <td>CSE 216</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 216 Recitation R03 - Programming Abstractions</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: RETU<br>
+        Time: 9:00AM - 9:53AM<br>
+        Building: TBA<br>
+        Room: 115</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Ritwik Banerjee</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>0</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 30<br>Wait Cap: 10</td>
+      </tr>
+          <td>Corequisites</td>
+          <td>CSE 216</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 216 Recitation R04 - Programming Abstractions</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: RETU<br>
+        Time: 11:00AM - 11:53AM<br>
+        Building: TBA<br>
+        Room: 115</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Ritwik Banerjee</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>0</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 30<br>Wait Cap: 10</td>
+      </tr>
+          <td>Corequisites</td>
+          <td>CSE 216</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 216 Recitation R05 - Programming Abstractions</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: RETH<br>
+        Time: 11:00AM - 11:53AM<br>
+        Building: TBA<br>
+        Room: 115</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Ritwik Banerjee</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>0</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 30<br>Wait Cap: 10</td>
+      </tr>
+          <td>Corequisites</td>
+          <td>CSE 216</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 216 Recitation R06 - Programming Abstractions</button>
+<div class= "content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: RETU<br>
+        Time: 12:000PM - 12:53PM<br>
+        Building: TBA<br>
+        Room: 115</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Ritwik Banerjee</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>0</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 30<br>Wait Cap: 10</td>
+      </tr>
+          <td>Corequisites</td>
+          <td>CSE 216</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 220 Lecture Section 1 - Systems Fundamentals I</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: TUTH<br>
+        Time: 1:00PM - 2:52PM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Joydeep Mitra</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>4</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 180 <br>Wait Cap: 48</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>This course will introduce assembly language programming and essential concepts of computer organization and architecture. The focus of this course is on the computer organization of a computer system, including the processor architecture and the memory system. In particular, we will discuss the internal representation of information, performance evaluation methodology, instruction set architectures and implementation techniques for computer arithmetic, control path design, and pipelining.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>C or higher in CSE 214 or 260; CSE major</td>
+      </tr>
+</table> 
+</div>
+<button type="button" class="collapsible">CSE 220 Recitation R01 - Systems Fundamentals I</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: RECM<br>
+        Time: 10:000AM - 10:53AM<br>
+        Building: TBA<br>
+        Room: 115</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Joydeep Mitra</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>0</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 30<br>Wait Cap: 8</td>
+      </tr>
+          <td>Corequisites</td>
+          <td>CSE 220</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 220 Recitation R02 - Systems Fundamentals I</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: RECW<br>
+        Time: 10:000AM - 10:53AM<br>
+        Building: TBA<br>
+        Room: 115</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Joydeep Mitra</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>0</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 30<br>Wait Cap: 8</td>
+      </tr>
+          <td>Corequisites</td>
+          <td>CSE 220</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 220 Recitation R03 - Systems Fundamentals I</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: RECM<br>
+        Time: 11:000AM - 11:53AM<br>
+        Building: TBA<br>
+        Room: 115</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Joydeep Mitra</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>0</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 30<br>Wait Cap: 8</td>
+      </tr>
+          <td>Corequisites</td>
+          <td>CSE 220</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 220 Recitation R05 - Systems Fundamentals I</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: RECM<br>
+        Time: 12:000PM - 12:53PM<br>
+        Building: TBA<br>
+        Room: 115</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Joydeep Mitra</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>0</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 30<br>Wait Cap: 8</td>
+      </tr>
+          <td>Corequisites</td>
+          <td>CSE 220</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 220 Recitation R06 - Systems Fundamentals I</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: RECW<br>
+        Time: 12:000PM - 12:53PM<br>
+        Building: TBA<br>
+        Room: 115</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Joydeep Mitra</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>0</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 30<br>Wait Cap: 8</td>
+      </tr>
+          <td>Corequisites</td>
+          <td>CSE 220</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 22- Recitation R07 - Systems Fundamentals I</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: RECM<br>
+        Time: 2:30PM - 3:23PM<br>
+        Building: TBA<br>
+        Room: 115</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Joydeep Mitra</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>0</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 30<br>Wait Cap: 8</td>
+      </tr>
+          <td>Corequisites</td>
+          <td>CSE 220</td>
+      </tr>
+</table>
+</div>
+<button type="button" class="collapsible">CSE 300 Lecture Section 1 - Technical Communications</button>
+<div class="content"> 
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: TUTH<br>
+        Time: 11:30AM - 12:50PM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>TBA</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 35 <br>Wait Cap: 0</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>Principles of professional technical communications for Computer Science and Information Systems majors. Topics include writing business communications, user manuals, press releases, literature reviews, and research abstracts. Persuasive oral communications and effective presentation techniques, to address a range of audiences, will also be covered. This course satisfies the upper-division writing requirement for CSE and ISE majors.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>WRT 102, CSE or ISE major, U3 or U4 standing</td>
+      </tr>
+      <tr>
+        <td>SBC</td>
+        <td>SPK, WRTD</td>
+      </tr>
+</table> 
+</div>
+<button type="button" class="collapsible">CSE 300 Lecture Section 2 - Technical Communications</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: TUTH<br>
+        Time: 2:30AM - 3:50PM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>TBA</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 35 <br>Wait Cap: 0</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>Principles of professional technical communications for Computer Science and Information Systems majors. Topics include writing business communications, user manuals, press releases, literature reviews, and research abstracts. Persuasive oral communications and effective presentation techniques, to address a range of audiences, will also be covered. This course satisfies the upper-division writing requirement for CSE and ISE majors.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>WRT 102, CSE or ISE major, U3 or U4 standing</td>
+      </tr>
+      <tr>
+        <td>SBC</td>
+        <td>SPK, WRTD</td>
+      </tr>
+</table> 
+</div>
+<button type="button" class="collapsible">CSE 300 Lecture Section 3 - Technical Communications</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: TUTH<br>
+        Time: 10:00AM - 11:20AM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>TBA</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 35 <br>Wait Cap: 0</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>Principles of professional technical communications for Computer Science and Information Systems majors. Topics include writing business communications, user manuals, press releases, literature reviews, and research abstracts. Persuasive oral communications and effective presentation techniques, to address a range of audiences, will also be covered. This course satisfies the upper-division writing requirement for CSE and ISE majors.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>WRT 102, CSE or ISE major, U3 or U4 standing</td>
+      </tr>
+      <tr>
+        <td>SBC</td>
+        <td>SPK, WRTD</td>
+      </tr>
+</table> 
+</div>
+<button type="button" class="collapsible">CSE 300 Lecture Section 4 - Technical Communications</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: TUTH<br>
+        Time: 1:00AM - 2:20PM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>TBA</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 35 <br>Wait Cap: 0</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>Principles of professional technical communications for Computer Science and Information Systems majors. Topics include writing business communications, user manuals, press releases, literature reviews, and research abstracts. Persuasive oral communications and effective presentation techniques, to address a range of audiences, will also be covered. This course satisfies the upper-division writing requirement for CSE and ISE majors.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>WRT 102, CSE or ISE major, U3 or U4 standing</td>
+      </tr>
+      <tr>
+        <td>SBC</td>
+        <td>SPK, WRTD</td>
+      </tr>
+</table> 
+</div>
+<button type="button" class="collapsible">CSE 300 Lecture Section 5 - Technical Communications</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: TUTH<br>
+        Time: 2:30PM - 3:50PM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>TBA</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 35 <br>Wait Cap: 0</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>Principles of professional technical communications for Computer Science and Information Systems majors. Topics include writing business communications, user manuals, press releases, literature reviews, and research abstracts. Persuasive oral communications and effective presentation techniques, to address a range of audiences, will also be covered. This course satisfies the upper-division writing requirement for CSE and ISE majors.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>WRT 102, CSE or ISE major, U3 or U4 standing</td>
+      </tr>
+      <tr>
+        <td>SBC</td>
+        <td>SPK, WRTD</td>
+      </tr>
+</table> 
+</div>
+<button type="button" class="collapsible">CSE 300 Lecture Section 6 - Technical Communications</button>
+<div class ="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: MW<br>
+        Time: 8:30AM - 9:50AM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>TBA</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 35 <br>Wait Cap: 0</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>Principles of professional technical communications for Computer Science and Information Systems majors. Topics include writing business communications, user manuals, press releases, literature reviews, and research abstracts. Persuasive oral communications and effective presentation techniques, to address a range of audiences, will also be covered. This course satisfies the upper-division writing requirement for CSE and ISE majors.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>WRT 102, CSE or ISE major, U3 or U4 standing</td>
+      </tr>
+      <tr>
+        <td>SBC</td>
+        <td>SPK, WRTD</td>
+      </tr>
+</table> 
+</div>
+<button type="button" class="collapsible">CSE 303 Lecture Section 1 - Introduction to the Theory of Computation</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: MWF<br>
+        Time: 12:00PM - 12:53PM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Pramod Ganapathi</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 250 <br>Wait Cap: 30</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>An introduction to the abstract notions encountered in machine computation. Topics include finite automata, regular expressions, and formal languages, with emphasis on regular and context-free grammars. Questions relating to what can and cannot be done by machines are covered by considering various models of computation, including Turing machines, recursive functions, and universal machines.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>C or higher: CSE 160 or CSE 214; CSE 150 or CE 215; CSE major</td>
+      </tr>
+</table> 
+</div>
+<button type="button" class="collapsible">CSE 306 Lecture Section 1 - Operating Systems</button>
+<div class ="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: TUTH<br>
+        Time: 10:00AM - 11:20AM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Eugene Stark</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 150 <br>Wait Cap: 20</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>Students are introduced to the structure of modern operating systems. Topics include virtual memory, resource allocation strategies, concurrency, and protection. The design and implementation of a simple operating system are performed. This course focuses on teaching the skills required to design and build modules of an operating system kernel. It covers key algorithms and architectures. A companion course, CSE 320, teaches complementary skills from the application programmer's point of view.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>C or higher: CSE 216 or CSE 219 or CSE 260; CSE 320 or ESE 380; CSE Major or ECE major</td>
+      </tr>
+      <tr> 
+        <td>Partially fulfills</td>
+        <td>ESI, EXP+, SBS+, STEM+</td>
+      </tr>
+</table> 
+</div>
+<button type="button" class="collapsible">CSE 307 Lecture Section 1 -  Principles of Programming Languages</button>
+<div class ="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: TUTH<br>
+        Time: 4:00PM - 5:20PM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Joydeep Mitra</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 80 <br>Wait Cap: 15</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>An introduction to programming languages paradigms, including functional and logic programming, and the suitability of various languages for particular programming tasks. Students write sample programs in the studied languages. The languages are used to illustrate programming language constructs such as scoping and binding, type systems, storage management and operating environments. This illustration is accompanied by an introduction to the implementation of programming languages, such as parsing, semantic analysis, symbol tables, memory allocation and code generation. Students complete a series of assignments to implement a language chosen by the instructor.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>C or higher: CSE 216 or CSE 219 or CSE 260; CSE 220; CSE major</td>
+      </tr>
+</table> 
+</div>
+<button type="button" class="collapsible">CSE 310 Lecture Section 1 - Computer Networks</button>
+<div class ="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: MW<br>
+        Time: 4:00PM - 5:20PM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Aruna Balasubramanian</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 200 <br>Wait Cap: 50</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>Overview of computer networks and the Internet. Concept of end systems, access networks, clients and servers. Connection-oriented and connectionless services. Circuit switching and packet switching. Description of Internet protocol layers, including application layer, transport layer, network layer and link layer. Architecture of the current Internet and the World-Wide Web. TCP/IP protocol stack. Internet routing and addressing. Local area network protocols, Ethernet hubs and switches. Wireless LANs. Multimedia networking. May not be taken by students with credit for ESE 346.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>C or higher: CSE 214 or 260; CSE 220 or ISE 218; CSE major or ISE major</td>
+      </tr>
+      <tr> 
+        <td>Advisory Pre or Corequisite</td>
+        <td>AMS 310</td>
+      </tr>
+</table> 
+</div>
+<button type="button" class="collapsible">CSE 311 Lecture Section 1 - Systems Administration</button>
+<div class ="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: TUTH<br>
+        Time: 10:00AM - 11:20AM<br>
+        Building: Old Computer Science<br>
+        Room: 2120</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Ahmad Esmaili</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 25 <br>Wait Cap: 0</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>This course covers practical techniques to manage information systems, also known as IT Systems Administration. Students will learn how to install computers for assorted hardware and software platforms (Windows, Unix/Linux, OS-X). Install networking equipment and configure it. Install server software on several systems (e.g. web, database, mail) and configure it. Secure the network, hosts, and services, and apply system patches. Set up redundant computing services, virtual machines/services, and hardware so that services can survive some hardware/software failures. Evaluate the performance, reliability, and security of the overall system. This course is offered as both CSE 311 and ISE 311.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>CSE 214 or CSE 230 or CSE 260 or ISE 208; ISE or CSE major</td>
+      </tr>
+  </table>
+</div>
+<button type="button" class="collapsible">CSE 312 Lecture Section 1 - Legal, Social, and Ethical Issues in Information Systems</button>
+<div class ="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: MW<br>
+        Time: 2:30PM - 3:50AM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Anthony Scarlatos</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 120 <br>Wait Cap: 0</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>This course deals with the impact of computers on us as individuals and on our society. Rapid changes in computing technology and in our use of that technology have changed the way we work, play, and interact with other people. These changes have created a flood of new social and legal issues that demand critical examination. For example, technologies such as Gmail, Facebook, MySpace, along with music sharing sites and wikis create new social, ethical, and legal issues. This course is offered as both CSE 312 and ISE 312.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>CSE or ISE major; U3 or U4 standing; one D.E.C. E or SNW course</td>
+      </tr>
+      <tr>
+        <td>SBC</td>
+        <td>CER, ESI, STAS</td>
+      </tr>
+  </table>
+</div>
+<button type="button" class="collapsible">CSE 312 Lecture Section 2 - Legal, Social, and Ethical Issues in Information Systems</button>
+<div class ="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: MW<br>
+        Time: 7:00PM - 8:20AM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Michael Tashbook</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 120 <br>Wait Cap: 0</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>This course deals with the impact of computers on us as individuals and on our society. Rapid changes in computing technology and in our use of that technology have changed the way we work, play, and interact with other people. These changes have created a flood of new social and legal issues that demand critical examination. For example, technologies such as Gmail, Facebook, MySpace, along with music sharing sites and wikis create new social, ethical, and legal issues. This course is offered as both CSE 312 and ISE 312.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>CSE or ISE major; U3 or U4 standing; one D.E.C. E or SNW course</td>
+      </tr>
+      <tr>
+        <td>SBC</td>
+        <td>CER, ESI, STAS</td>
+      </tr>
+  </table>
+</div>
+<button type="button" class="collapsible">CSE 316 Lecture Section 1 - Fundamentals of Software Development</button>
+<div class ="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: TUTH<br>
+        Time: 10:00AM - 11:20AM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Richard McKenna</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 120 <br>Wait Cap: 20</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>Introduction to systematic design, development and testing of software systems, including event-driven and Web programming, information management, principles and practices for secure computing, software design and development fundamentals, and the application of these skills to the construction of large, robust programs. Students design and implement a secure, full-stack, distributed web application.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>C or higher in CSE 216 or CSE 260; CSE major</td>
+      </tr>
+      <tr>
+        <td>SBC</td>
+        <td>ESI, EXP+, SBS+, STEM+</td>
+      </tr>
+  </table>
+</div>
+<button type="button" class="collapsible">CSE 320 Lecture Section 1 - Systems Fundamentals II</button>
+<div class ="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: TUTH<br>
+        Time: 1:00PM - 2:20PM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Eugene Stark</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 250 <br>Wait Cap: 30</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>This course introduces C programming and essential concepts of operating systems, compilers, concurrency, and performance analysis, focused around several cross-cutting examples, such as memory management, error handling, and threaded programming. In this course, operating systems concepts are considered from the point of view of the application programmer, and the focus is on APIs for interacting with an operating system. A companion course, CSE 306, considers operating systems from the point of view of the OS kernel implementer.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>C or higher: CSE 220 and CSE major</td>
+      </tr>
+  </table>
+</div>
+<button type="button" class="collapsible">CSE 327 Lecture Section 1 - Fundamentals of Computer Vision</button>
+<div class ="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: TUTH<br>
+        Time: 4:00PM - 5:20PM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Dimitrios Samaras</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 40 <br>Wait Cap: 10</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>Introduces fundamental concepts, algorithms, and techniques in visual information processing. Covers image formation, binary image processing, image features, model fitting, optics, illumination, texture, motion, segmentation, and object recognition.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>CSE 214 or CSE 230 or CSE 260; AMS 210 or MAT 211; CSE or ISE major</td>
+      </tr>
+  </table>
+</div>
+<button type="button" class="collapsible">CSE 334 Lecture Section 1 - Introduction to Multimedia Systems</button>
+<div class ="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: TUTH<br>
+        Time: 11:30AM - 12:50PM<br>
+        Building: Old Computer Science<br>
+        Room: 2205</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Anthony Scarlatos</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 11 <br>Wait Cap: 0</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>Survey of technologies available for user interfaces. Discussion of hypertext; voice, music, and video together with tools and models for capturing, editing, presenting, and combining them. Capabilities and characteristics of a range of peripheral devices including devices based on posture, gesture, head movement, and touch. Case studies of academic and commercial multimedia systems including virtual reality systems. Students participate in laboratory exercises and build a multimedia project. This course is offered as both CSE 334 and ISE 334.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>U2, U3 or U4 standing; CSE or ISE major</td>
+      </tr>
+  </table>
+</div>
+<button type="button" class="collapsible">CSE 337 Lecture Section 1 - Scripting Languages</button>
+<div class ="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: TUTH<br>
+        Time: 5:30PM - 6:50PM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Michael Tashbook</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 100 <br>Wait Cap: 0</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>Scripting languages are widely used in the IT industry. Programming with scripting languages, also known as scripting, has several advantages compared to programming with other types of languages in that scripts facilitate rapid program development; can automate high-level jobs or tasks very effectively; and can be used to compose various software components, even binaries, into more complex and powerful applications. This course introduces the principles of scripting, covers one or two selected scripting languages in depth, and illustrates the advanced use of scripting by extensive case studies in application areas such as system administration, web application development, graphical user interface development, and text processing.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>CSE 114 or CSE 160 or ISE 208; CSE or ISE major; U3 or U4 standing</td>
+      </tr>
+  </table>
+</div>
+<button type="button" class="collapsible">CSE 351 Lecture Section 1 - Introduction to Data Science</button>
+<div class ="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: TUTH<br>
+        Time: 4:00PM - 5:20PM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Praveen Tripathi</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 100 <br>Wait Cap: 0</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>This multidisciplinary course introduces both theoretical concepts and practical approaches to extract knowledge from data. Topics include linear algebra, probability, statistics, machine learning, and programming. Using large data sets collected from real-world problems in areas of science, technology, and medicine, we introduce how to preprocess data, identify the best model that describes the data, make predictions, evaluate the results, and finally report the results using proper visualization methods. This course also teaches state-of-the art tools for data analysis, such as Python and its scientific libraries.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>CSE 214 or CSE 260; AMS 310; CSE major</td>
+      </tr>
+  </table>
+</div>
+<button type="button" class="collapsible">CSE 352 Lecture Section 1 - Artificial Intelligence</button>
+<div class ="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: HTBA<br>
+        Time: 1:00AM - 1:00AM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Niranjan Balasubramanian</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 100 <br>Wait Cap: 0</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>Topics covered include critique of artificial intelligence research; state-space problem representations and search algorithms; game-playing programs; theorem-proving programs; programs for the study and simulation of cognitive processes and pattern recognition. Further topics in current research as time permits.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>C or higher in CSE 216 or CSE 219 or CSE 260; CSE major</td>
+      </tr>
+  </table>
+</div>
+<button type="button" class="collapsible">CSE 354 Lecture Section 1 -  Natural Language Processing</button>
+<div class ="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: MW<br>
+        Time: 4:00PM - 5:20PM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Hansen Schwartz</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 100 <br>Wait Cap: 0</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>Natural language processing techniques power many intelligent language based applications. This course will introduce basic language analysis tasks such as language modeling and syntactic analysis, as well as core applications such as text classification, information extraction, question answering, and machine translation. The course will cover relevant algorithms, machine learning solutions, and evaluation methodologies.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>CSE 216 or CSE 219 or CSE 260; CSE major</td>
+      </tr>
+  </table>
+</div>
+<button type="button" class="collapsible">CSE 371 Lecture Section 1 - Logic</button>
+<div class ="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: TUTH<br>
+        Time: 1:00PM - 2:20AM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Anita Wasilewska</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 60 <br>Wait Cap: 0</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>A survey of the logical foundations of mathematics: development of propositional calculus and quantification theory, the notions of a proof and of a model, the completeness theorem, Goedel's incompleteness theorem. This course is offered as both CSE 371 and MAT 371.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>CSE 150 or CSE 215 or MAT 200 or MAT 250</td>
+      </tr>
+  </table>
+</div>
+<button type="button" class="collapsible">CSE 373 Lecture Section 1 - Analysis of Algorithms</button>
+<div class ="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: TUTH<br>
+        Time: 2:30PM - 3:50PM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Rezaul Chowdhury</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 120 <br>Wait Cap: 0</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>Mathematical analysis of a variety of computer algorithms including searching, sorting, matrix multiplication, fast Fourier transform, and graph algorithms. Time and space complexity. Upper-bound, lower- bound, and average-case analysis. Introduction to NP completeness. Some machine computation is required for the implementation and comparison of algorithms. This course is offered as CSE 373 and MAT 373</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>C or higher in MAT 211 or AMS 210; CSE 214 or CSE 260</td>
+      </tr>
+  </table>
+</div>
+<button type="button" class="collapsible">CSE 376 Lecture Section 1 - Advanced Systems Programming in UNIX/C</button>
+<div class ="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: MW<br>
+        Time: 8:30AM - 9:50AM<br>
+        Building: TBA<br>
+        Room: 120</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Erez Zadok</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 80 <br>Wait Cap: 0</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>Focuses on several aspects of producing commercial-grade system software: reliability, portability, security, and survivability. Uses Unix and C, heavily used in industry when developing systems and embedded systems code. Emphasizes techniques and tools to produce reliable, secure, and highly portable code. Requires substantial programming as well as a course project.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>C or higher: CSE 216 or CSE 219 or 260; CSE 320; CSE major</td>
+      </tr>
+  </table>
+</div>
+<button type="button" class="collapsible">CSE 380 Lecture Section 1 - 2D Game Programming</button>
+<div class ="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: TUTH<br>
+        Time: 2:30PM - 3:50PM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Richard McKenna</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 100 <br>Wait Cap: 30</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>An introduction to the fundamental concepts of computer game programming. Students design and develop original games for PCs applying proven game design and software engineering principles.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>CSE 216 or CSE 219 or CSE 220 or CSE 260; CSE major</td>
+      </tr>
+  </table>
+</div>
+<button type="button" class="collapsible">CSE 385 Lecture Section 1 - Analysis of Algorithms: Honors</button>
+<div class ="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: TUTH<br>
+        Time: 11:30AM - 12:50PM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Michael Bender</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>4</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 60 <br>Wait Cap: 0</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>Algorithmic design and analysis for Computer Science Honors students. Mathematical analysis of a variety of computer algorithms including searching, sorting, matrix multiplication, fast Fourier transform, and graph algorithms. Time and space complexity. Upper-bound, lower-bound, and average-case analysis. Randomization. Introduction to NP completeness. Some machine computation is required for the implementation and comparison of algorithms.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>CSE 260 or CSE 214; AMS 210 or MAT 211; Computer Science Honors Program or the Honors College or the WISE Honors Program or University Scholars</td>
+      </tr>
+  </table>
+</div>
+<button type="button" class="collapsible">CSE 385 Recitation R01 - Analysis of Algorithms: Honors</button>
+<div class ="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: RETH<br>
+        Time: 2:00PM - 2:53PM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Michael Bender</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>0</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 60 <br>Wait Cap: 0</td>
+      </tr>
+      <tr>
+          <td>Corequisites</td>
+          <td>CSE 385</td>
+      </tr>
+  </table>
+</div>
+<button type="button" class="collapsible">CSE 416 Lecture Section 1 - Software Engineering</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: TUTH<br>
+        Time: 7:00PM - 8:20PM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Robert Kelly</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td> </td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 70 <br>Wait Cap: 0</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>Introduces the basic concepts and modern tools and techniques of software engineering. Emphasizes the development of reliable and maintainable software via system requirements and specifications, software design methodologies including object-oriented design, implementation, integration, and testing; software project management; life-cycle documentation; software maintenance; and consideration of human factor issues.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>C or higher in CSE 316; and CSE major; and U4 standing.</td>
+      </tr>
+  </table>
+</div>
+<button type="button" class="collapsible">CSE 416 Lecture Section 2 - Software Engineering</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: TUTH<br>
+        Time: 11:30AM - 12:50PM<br>
+        Building: TBA<br>
+        Room: 120</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Scott Stoller</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td> </td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 70 <br>Wait Cap: 0</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>Introduces the basic concepts and modern tools and techniques of software engineering. Emphasizes the development of reliable and maintainable software via system requirements and specifications, software design methodologies including object-oriented design, implementation, integration, and testing; software project management; life-cycle documentation; software maintenance; and consideration of human factor issues.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>C or higher in CSE 316; and CSE major; and U4 standing.</td>
+      </tr>
+  </table>
+</div>
+<button type="button" class="collapsible">CSE 506 Lecture Section 1 - Operating Systems</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: TUTH<br>
+        Time: 8:30AM - 9:50AM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Dongyoon Lee</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 150<br>Wait Cap: 0</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>This course is an in-depth study of important concepts and techniques found in modern computer operating systems. An undergraduate course in operating systems is a prerequisite. The course focuses on in-depth study of such important issues as virtual memory, filesystems, networking, and multiprocessor support, with an eye to recent directions in these areas. Textbook readings are supplemented, where appropriate, by papers from the research literature. An important part of the course is the case study of an actual operating system. Students study the source code for this operating system, and do programming exercises and projects that involve modifying the operating system and measuring its performance.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>CSE 306</td>
+      </tr>
+  </table>
+</div>
+<button type="button" class="collapsible">CSE 512 Lecture Section 1 - Machine Learning</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: TUTH<br>
+        Time: 10:00AM - 11:20AM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Minh Hoai Nguyen</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 150<br>Wait Cap: 0</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>Machine Learning is centered around automated methods that improve their own performance through learning patterns in data, and then use the uncovered patterns to predict the future and make decisions. Examples include document/image/handwriting classification, spam filtering, face/speech recognition, medical decision making, robot navigation, to name a few. See this for an extended introduction. This course covers the theory and practical algorithms for machine learning from a variety of perspectives. The topics include Bayesian networks, decision tree learning, Support Vector Machines, statistical learning methods and unsupervised learning, as well as theoretical concepts such as the PAC learning framework, margin-based learning, and VC dimension. Short programming assignments include hands-on experiments with various learning algorithms, and a larger course project gives students a chance to dig into an area of their choice. See the syllabus for more. This course is designed to give a graduate-level student a thorough grounding in the methodologies, technologies, mathematics and algorithms currently needed by people who do research in machine learning.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td> </td>
+      </tr>
+  </table>
+</div>
+<button type="button" class="collapsible">CSE 526 Lecture Section 1 - Principles of Programming Languages</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: MF<br>
+        Time: 1:00PM - 2:20PM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Yanhong Liu</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 100<br>Wait Cap: 10</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>Programming language concepts and design, with emphasis on abstraction mechanisms. Topics include: language paradigms (procedural, object-oriented, functional and logic), language concepts (values, bindings, types, modules), and foundations (lambda calculus, denotational semantics). Examples will be drawn from several representative languages, such as C, Java, Standard ML and Prolog.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>CSE 307</td>
+      </tr>
+  </table>
+</div>
+<button type="button" class="collapsible">CSE 527 Lecture Section 1 - Introduction to Computer Visions</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: MW<br>
+        Time: 7:00PM - 8:20PM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Haibin Ling</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+          <td>Capacity</td>
+          <td>Enrollment Cap: 120<br>Wait Cap: 0</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>Introduction to basic concepts in computer vision. Low level image analysis, image formation, edge detection, segmentation. Image transformations for image synthesis methods for 3D scene reconstruction, motion analysis, object recognition.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td> </td>
+      </tr>
+  </table>
+</div>
+<button type="button" class="collapsible">CSE 532 Lecture Section 1 - Theory of Database Systems</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: TUTH<br>
+        Time: 5:30PM - 6:50PM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Michael Kifer</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+        <td>Capacity</td>
+        <td>Enrollment Cap: 150<br>Wait Cap: 34</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>The course will cover advanced topics in modern database systems, including object-oriented databases, rule-based databases, temporal and active databases, parallel and distributed databases, distributed object model, data mining, on-line analytical processing, data warehousing, multimedia databases.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td> </td>
+      </tr>
+  </table>
+</div>
+<button type="button" class="collapsible">CSE 540 Lecture Section 1 - Theory of Computation</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: TUTH<br>
+        Time: 2:30PM - 3:50PM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Omkant Pandey</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+        <td>Capacity</td>
+        <td>Enrollment Cap: 150<br>Wait Cap: 0</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>The purpose of this course is to study the capabilities and limitations of computers, by formulating mathematically various models of idealized computers and establishing rigorously for these models what kinds of problems can and cannot be solved, as well as what kinds of problems can and cannot be solved with a reasonable amount of computing resources. An introductory treatment of Turing machines would typically be part of an undergraduate course in the theory of computation, which is a prerequisite for this course. Though we shall cover this topic, the treatment will be fairly speedy, so as to leave enough time for complexity theory and advanced topics.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>CSE 303</td>
+      </tr>
+  </table>
+</div>
+<button type="button" class="collapsible">CSE 541 Lecture Section 1 - Logic in Computer Science</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: TUTH<br>
+        Time: 4:00PM - 5:20PM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Anita Wasilewska</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+        <td>Capacity</td>
+        <td>Enrollment Cap: 120<br>Wait Cap: 15</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>A survey of the logical foundations of mathematics and the relationships to computer science. Development of propositional calculus and quantification theory; the notions of a proof and of a model; The completeness theorem.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>MAT 313 and CSE 213</td>
+      </tr>
+  </table>
+</div>
+<button type="button" class="collapsible">CSE 544 Lecture Section 1 - Probability & Statistics for Data Science</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: TUTH<br>
+        Time: 1:00PM - 2:20PM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Anshul Gandhi</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td> </td>
+      </tr>
+      <tr> 
+        <td>Capacity</td>
+        <td>Enrollment Cap: 100<br>Wait Cap: 15</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>This course will cover core concepts of probability theory and an assortment of standard statistical techniques. Specific topics will include random variables and distributions, quantitative research methods (correlation and regression), and modern techniques of optimization and machine learning (clustering and prediction).</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td> </td>
+      </tr>
+  </table>
+</div>
+<button type="button" class="collapsible">CSE 545 Lecture Section 1 - Big Data Analytics</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: TUTH<br>
+        Time: 11:30AM - 12:50PM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Hansen Schwartz</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td> </td>
+      </tr>
+      <tr> 
+        <td>Capacity</td>
+        <td>Enrollment Cap: 150<br>Wait Cap: 28</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>This course will cover concepts and standard tools used to analyze, so called, Big Data. Specifically, it will cover algorithmic approaches to analyzing large datasets: MapReduce, graph analytics, text analytics, streaming algorithms, as well as modern distributed analysis platforms (e.g. Hadoop, Spark).</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td> </td>
+      </tr>
+  </table>
+</div>
+<button type="button" class="collapsible">CSE 548 Lecture Section 1 - Analysis of Algorithms</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: MW<br>
+        Time: 4:00PM - 5:20PM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Rezaul Chowdhury</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+        <td>Capacity</td>
+        <td>Enrollment Cap: 180<br>Wait Cap: 28</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>Techniques for designing efficient algorithms, including choice of data structures, recursion,branch and bound, divide and conquer, and dynamic programming. Complexity analysis of searching, sorting, matrix multiplication, and graph algorithms. Standard NP-complete problems and polynomial transformation techniques.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>CSE 373</td>
+      </tr>
+  </table>
+</div>
+<button type="button" class="collapsible">CSE 550 Seminar S01 - Quantum Computing and Applications</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: MW<br>
+        Time: 10:30AM - 11:30AM<br>
+        Building: TBA<br>
+        Room: 120</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Predrag Krstic</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+        <td>Capacity</td>
+        <td>Enrollment Cap: 20<br>Wait Cap: 0</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>This course is an introduction to and survey of the Quantum Computing, an emerging interdisciplinary field of science which has the potential to revolutionize computation over the next ten years, to transform chemistry, medicine, engineering and communications, as well as to change our understanding of physical world. The course will build intuitive approach to quantum computation and algorithms, but also will advance relevant vocabulary and skills for faculties and graduate students in engineering, computing, applied mathematics, chemistry, physics and related sciences. Crosslisted with DCS 501 and ESE 523.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td> </td>
+      </tr>
+  </table>
+</div>
+<button type="button" class="collapsible">CSE 550 Lecture Section 1 - Quantum Computing and Applications</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: TU<br>
+        Time: 9:30AM - 10:30AM<br>
+        Building: TBA<br>
+        Room: 120</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Predrag Krstic</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+        <td>Capacity</td>
+        <td>Enrollment Cap: 20<br>Wait Cap: 0</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>This course is an introduction to and survey of the Quantum Computing, an emerging interdisciplinary field of science which has the potential to revolutionize computation over the next ten years, to transform chemistry, medicine, engineering and communications, as well as to change our understanding of physical world. The course will build intuitive approach to quantum computation and algorithms, but also will advance relevant vocabulary and skills for faculties and graduate students in engineering, computing, applied mathematics, chemistry, physics and related sciences. Crosslisted with DCS 501 and ESE 523.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td> </td>
+      </tr>
+  </table>
+</div>
+<button type="button" class="collapsible">CSE 555 Lecture Section 1 - Computational Geometry</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: TUTH<br>
+        Time: 10:00AM - 11:20AM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Joseph Mitchell</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+        <td>Capacity</td>
+        <td>Enrollment Cap: 60<br>Wait Cap: 0</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>We study the fundamental algorithmic problems associated with geometric computations, including convex hulls, Voronoi diagrams, triangulation, intersection, range queries, visibility, arrangements, and motion planning for robotics. Algorithmic methods include plane sweep, incremental insertion, randomization, divide-and-conquer, etc.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td>CSE 373 or CSE 548</td>
+      </tr>
+  </table>
+</div>
+<button type="button" class="collapsible">CSE 564 Lecture Section 1 - Visualization</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: TUTH<br>
+        Time: 7:00PM - 8:20PM<br>
+        Building: TBA<br>
+        Room: TBA</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Klaus Mueller</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+        <td>Capacity</td>
+        <td>Enrollment Cap: 250<br>Wait Cap: 6</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>Visualization plays an increasingly important role in the understanding of the massive data that are nowadays being collected in almost any domain – science, medicine, business, commerce, finance, social networks, and many more.  As such, visualization is often deeply integrated into the analytics tools developed for data science. This course will discuss both foundations and applications of this emerging paradigm known as visual analytics. It will begin with the basics – visual perception, cognition, human-computer interaction, the sense-making process, data mining, computer graphics, and information visualization/It will then move to discuss how these elementary constituents are coupled into an effective visual analytics pipeline that allows humans to interactively reason with data and gain insight.</td>
+      </tr>
+      <tr>
+          <td>Prerequisites</td>
+          <td> </td>
+      </tr>
+  </table>
+</div>
+<button type="button" class="collapsible">CSE 566 Lecture Section 1 - Virtual Reality</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: W<br>
+        Time: 2:30PM - 5:20PM<br>
+        Building: TBA<br>
+        Room: 220</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Klaus Mueller</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>3</td>
+      </tr>
+      <tr> 
+        <td>Capacity</td>
+        <td>Enrollment Cap: 30<br>Wait Cap: 0</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td> </td>
+      </tr>
+      <tr>
+        <td>Prerequisites</td>
+        <td> </td>
+      </tr>
+  </table>
+</div>
+<button type="button" class="collapsible">CSE 600 Seminar S01 -  Research in Modern Computer Science</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: F<br>
+        Time: 2:30PM - 3:30PM<br>
+        Building: TBA<br>
+        Room: 120</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Samir Das</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td>0-1 Credits, S/U grading</td>
+      </tr>
+      <tr> 
+        <td>Capacity</td>
+        <td>Enrollment Cap: 80<br>Wait Cap: 10</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td>A survey of current computer science research areas and issues. This course comprises lectures by faculty members and visitors, selected readings, and introductory-level research problems. Prerequisite: Permission of instructor</td>
+      </tr>
+      <tr>
+        <td>Prerequisites</td>
+        <td> </td>
+      </tr>
+  </table>
+</div>
+<button type="button" class="collapsible">CSE 645 Seminar S01 - Seminar in Languages</button>
+<div class="content">
+  <table>
+    <tr>
+        <td>Meeting Details</td>
+        <td>
+        Days: TH<br>
+        Time: 11:30AM - 12:50PM<br>
+        Building: TBA<br>
+        Room: 120</td>
+    </tr>
+    <tr>
+        <td>Instructor</td>
+        <td>Paul Fodor<br>Michael Kifer<br>C Ramakrishnan<br>Yanhong Liu</td>
+      </tr>
+      <tr>
+        <td>Instruction Mode</td>
+        <td>In person</td>
+      </tr>
+      <tr>
+        <td>Credits</td>
+        <td></td>
+      </tr>
+      <tr> 
+        <td>Capacity</td>
+        <td>Enrollment Cap: 30<br>Wait Cap: 0</td>
+      </tr>
+      <tr>
+        <td>Description</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Prerequisites</td>
+        <td> </td>
+      </tr>
+  </table>
+</div>
+<script>
+  var coll = document.getElementsByClassName("collapsible");
+  var i;
+  for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+      this.classList.toggle("active");
+      var content = this.nextElementSibling;
+      if (content.style.display === "block") {
+          content.style.display = "none";
+      } else {
+          content.style.display = "block";
+      }
+  });
+}
+</script>`;
+</body>
+</html>
